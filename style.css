@@ -14,3 +14,13 @@ body{
     font-weight: bold;
     color: rgb(61, 60, 60);
 }
+
+/* Celulares */
+
+@media (max-width: 480px) {
+    .conteudo{
+        margin: 0 auto;
+        margin-top: 15em;
+        width: 20em;
+    }
+}
